@@ -10,4 +10,4 @@ This project is designed to use articifial intelligence to analyze and classify 
 Phase one of this project is building a training data bank for the learning algorithms using Python signal processing.
 Phase two will feed the training data into machine learning algorithms.
 
-This project is under active development and thus may be full of bugs and head aches. Use at your own risks.
+This project is under active development and thus may be full of bugs, head aches, and potential deep despair. Use at your own risks.
